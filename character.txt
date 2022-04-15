@@ -1,0 +1,6 @@
+name=ˆêƒm£ˆÉ
+author=ˆêƒm£—®¹
+image=
+sample=
+web=https://ibuki.ryu.sh/
+version:0.00
