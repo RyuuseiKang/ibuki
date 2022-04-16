@@ -5,9 +5,9 @@ subbanks:
   prefix: ''
   suffix: E3
   tone_ranges:
-  - D#3-B7
+  - D3-B7
 - color: ''
   prefix: ''
   suffix: ''
   tone_ranges:
-  - C1-D3
+  - C1-C#3
