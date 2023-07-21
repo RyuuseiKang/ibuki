@@ -1,6 +1,5 @@
-name=ˆêƒm£ˆÉ
-author=ˆêƒm£—®¹
+name=ˆÉ
+author=‚Ê‚Ü‚½
 image=
 sample=
-web=https://ibuki.ryu.sh/
-version:0.00
+web=https://ryu.sh
